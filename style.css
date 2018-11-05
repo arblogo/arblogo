@@ -1,0 +1,9 @@
+#side-right .phone-show {float:left;text-align:center;font-family:"Open Sans",sans-serif;position:relative;clear:both;width:100%;margin:0 0 10px 0;border:1px solid #eee;padding:10px;text-decoration:none;-webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
+#side-right .phone-show .left {float:left;width:20%;position:absolute;left:0;top:0;height:100%;color:#00BCD4;text-align:center;font-size:35px;border-right:1px solid #eee;}
+#side-right .phone-show .left .fa {line-height:68px;}
+#side-right .phone-show .right {float:left;width:80%;margin-left:20%;}
+#side-right .phone-show span {float:left;clear:both;width:100%;}
+#side-right .phone-show span.top {color:#bbb;font-size:13px;line-height:16px;font-weight:500;}
+#side-right .phone-show span.bottom {color:#111;font-size:24px;line-height:24px;margin:2px 0 5px 0;font-weight:500;}
+#side-right .phone-show:hover {border-color:#bbb;}
+#side-right .phone-show:hover .left {border-color:#bbb;color:#333}
